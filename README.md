@@ -1,7 +1,9 @@
 pass
 
-# start 
-# create private and public gpg keys
+"""
+start 
+create private and public gpg keys
+"""
 gpg --full-gen-key
 
 # see private key
